@@ -59,10 +59,10 @@ RM = /usr/local/Cellar/cmake/3.12.1/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/christinasymon/cs680Symon/PA1
+CMAKE_SOURCE_DIR = /Users/christinasymon/cs680Symon/pa1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/christinasymon/cs680Symon/PA1/build
+CMAKE_BINARY_DIR = /Users/christinasymon/cs680Symon/pa1/build
 
 #=============================================================================
 # Target rules for target CMakeFiles/Tutorial_SUCCESSFUL.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /Users/christinasymon/cs680Symon/PA1/build
 CMakeFiles/Tutorial_SUCCESSFUL.dir/all: CMakeFiles/Tutorial.dir/all
 	$(MAKE) -f CMakeFiles/Tutorial_SUCCESSFUL.dir/build.make CMakeFiles/Tutorial_SUCCESSFUL.dir/depend
 	$(MAKE) -f CMakeFiles/Tutorial_SUCCESSFUL.dir/build.make CMakeFiles/Tutorial_SUCCESSFUL.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles --progress-num= "Built target Tutorial_SUCCESSFUL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles --progress-num= "Built target Tutorial_SUCCESSFUL"
 .PHONY : CMakeFiles/Tutorial_SUCCESSFUL.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/Tutorial_SUCCESSFUL.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tutorial_SUCCESSFUL.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christinasymon/cs680Symon/PA1/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christinasymon/cs680Symon/pa1/build/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Tutorial_SUCCESSFUL.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christinasymon/cs680Symon/PA1/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christinasymon/cs680Symon/pa1/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tutorial_SUCCESSFUL.dir/rule
 
 # Convenience name for target.
@@ -108,7 +108,7 @@ clean: CMakeFiles/Tutorial_SUCCESSFUL.dir/clean
 CMakeFiles/Tutorial.dir/all:
 	$(MAKE) -f CMakeFiles/Tutorial.dir/build.make CMakeFiles/Tutorial.dir/depend
 	$(MAKE) -f CMakeFiles/Tutorial.dir/build.make CMakeFiles/Tutorial.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target Tutorial"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target Tutorial"
 .PHONY : CMakeFiles/Tutorial.dir/all
 
 # Include target in all.
@@ -118,9 +118,9 @@ all: CMakeFiles/Tutorial.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tutorial.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christinasymon/cs680Symon/PA1/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christinasymon/cs680Symon/pa1/build/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Tutorial.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christinasymon/cs680Symon/PA1/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/christinasymon/cs680Symon/pa1/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tutorial.dir/rule
 
 # Convenience name for target.

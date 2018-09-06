@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/christinasymon/cs680Symon/PA1/src/camera.cpp" "/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial.dir/src/camera.cpp.o"
-  "/Users/christinasymon/cs680Symon/PA1/src/engine.cpp" "/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial.dir/src/engine.cpp.o"
-  "/Users/christinasymon/cs680Symon/PA1/src/graphics.cpp" "/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial.dir/src/graphics.cpp.o"
-  "/Users/christinasymon/cs680Symon/PA1/src/main.cpp" "/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial.dir/src/main.cpp.o"
-  "/Users/christinasymon/cs680Symon/PA1/src/object.cpp" "/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial.dir/src/object.cpp.o"
-  "/Users/christinasymon/cs680Symon/PA1/src/shader.cpp" "/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial.dir/src/shader.cpp.o"
-  "/Users/christinasymon/cs680Symon/PA1/src/window.cpp" "/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial.dir/src/window.cpp.o"
+  "/Users/christinasymon/cs680Symon/pa1/src/camera.cpp" "/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial.dir/src/camera.cpp.o"
+  "/Users/christinasymon/cs680Symon/pa1/src/engine.cpp" "/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial.dir/src/engine.cpp.o"
+  "/Users/christinasymon/cs680Symon/pa1/src/graphics.cpp" "/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial.dir/src/graphics.cpp.o"
+  "/Users/christinasymon/cs680Symon/pa1/src/main.cpp" "/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial.dir/src/main.cpp.o"
+  "/Users/christinasymon/cs680Symon/pa1/src/object.cpp" "/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial.dir/src/object.cpp.o"
+  "/Users/christinasymon/cs680Symon/pa1/src/shader.cpp" "/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial.dir/src/shader.cpp.o"
+  "/Users/christinasymon/cs680Symon/pa1/src/window.cpp" "/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial.dir/src/window.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

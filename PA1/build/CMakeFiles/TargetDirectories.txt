@@ -1,4 +1,4 @@
-/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/rebuild_cache.dir
-/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/edit_cache.dir
-/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial_SUCCESSFUL.dir
-/Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial.dir
+/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/rebuild_cache.dir
+/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/edit_cache.dir
+/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial_SUCCESSFUL.dir
+/Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial.dir

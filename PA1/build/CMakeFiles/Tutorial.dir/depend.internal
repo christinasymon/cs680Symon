@@ -4,7 +4,7 @@
 CMakeFiles/Tutorial.dir/src/camera.cpp.o
  ../include/camera.h
  ../include/graphics_headers.h
- /Users/christinasymon/cs680Symon/PA1/src/camera.cpp
+ /Users/christinasymon/cs680Symon/pa1/src/camera.cpp
  /usr/local/include/GL/glew.h
  /usr/local/include/glm/common.hpp
  /usr/local/include/glm/detail/_fixes.hpp
@@ -117,7 +117,7 @@ CMakeFiles/Tutorial.dir/src/engine.cpp.o
  ../include/object.h
  ../include/shader.h
  ../include/window.h
- /Users/christinasymon/cs680Symon/PA1/src/engine.cpp
+ /Users/christinasymon/cs680Symon/pa1/src/engine.cpp
  /usr/local/include/GL/glew.h
  /usr/local/include/SDL2/SDL.h
  /usr/local/include/SDL2/SDL_assert.h
@@ -272,7 +272,7 @@ CMakeFiles/Tutorial.dir/src/graphics.cpp.o
  ../include/graphics_headers.h
  ../include/object.h
  ../include/shader.h
- /Users/christinasymon/cs680Symon/PA1/src/graphics.cpp
+ /Users/christinasymon/cs680Symon/pa1/src/graphics.cpp
  /usr/local/include/GL/glew.h
  /usr/local/include/glm/common.hpp
  /usr/local/include/glm/detail/_fixes.hpp
@@ -385,7 +385,7 @@ CMakeFiles/Tutorial.dir/src/main.cpp.o
  ../include/object.h
  ../include/shader.h
  ../include/window.h
- /Users/christinasymon/cs680Symon/PA1/src/main.cpp
+ /Users/christinasymon/cs680Symon/pa1/src/main.cpp
  /usr/local/include/GL/glew.h
  /usr/local/include/SDL2/SDL.h
  /usr/local/include/SDL2/SDL_assert.h
@@ -537,7 +537,7 @@ CMakeFiles/Tutorial.dir/src/main.cpp.o
 CMakeFiles/Tutorial.dir/src/object.cpp.o
  ../include/graphics_headers.h
  ../include/object.h
- /Users/christinasymon/cs680Symon/PA1/src/object.cpp
+ /Users/christinasymon/cs680Symon/pa1/src/object.cpp
  /usr/local/include/GL/glew.h
  /usr/local/include/glm/common.hpp
  /usr/local/include/glm/detail/_fixes.hpp
@@ -645,7 +645,7 @@ CMakeFiles/Tutorial.dir/src/object.cpp.o
 CMakeFiles/Tutorial.dir/src/shader.cpp.o
  ../include/graphics_headers.h
  ../include/shader.h
- /Users/christinasymon/cs680Symon/PA1/src/shader.cpp
+ /Users/christinasymon/cs680Symon/pa1/src/shader.cpp
  /usr/local/include/GL/glew.h
  /usr/local/include/glm/common.hpp
  /usr/local/include/glm/detail/_fixes.hpp
@@ -752,7 +752,7 @@ CMakeFiles/Tutorial.dir/src/shader.cpp.o
  /usr/local/include/glm/vector_relational.hpp
 CMakeFiles/Tutorial.dir/src/window.cpp.o
  ../include/window.h
- /Users/christinasymon/cs680Symon/PA1/src/window.cpp
+ /Users/christinasymon/cs680Symon/pa1/src/window.cpp
  /usr/local/include/SDL2/SDL.h
  /usr/local/include/SDL2/SDL_assert.h
  /usr/local/include/SDL2/SDL_atomic.h

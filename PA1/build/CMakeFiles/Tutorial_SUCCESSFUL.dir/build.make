@@ -43,10 +43,10 @@ RM = /usr/local/Cellar/cmake/3.12.1/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/christinasymon/cs680Symon/PA1
+CMAKE_SOURCE_DIR = /Users/christinasymon/cs680Symon/pa1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/christinasymon/cs680Symon/PA1/build
+CMAKE_BINARY_DIR = /Users/christinasymon/cs680Symon/pa1/build
 
 # Utility rule file for Tutorial_SUCCESSFUL.
 
@@ -58,7 +58,7 @@ CMakeFiles/Tutorial_SUCCESSFUL: Tutorial
 	/usr/local/Cellar/cmake/3.12.1/bin/cmake -E echo =====================
 	/usr/local/Cellar/cmake/3.12.1/bin/cmake -E echo \ \ Compile\ complete!
 	/usr/local/Cellar/cmake/3.12.1/bin/cmake -E echo =====================
-	/usr/local/Cellar/cmake/3.12.1/bin/cmake -E echo /Users/christinasymon/cs680Symon/PA1/build
+	/usr/local/Cellar/cmake/3.12.1/bin/cmake -E echo /Users/christinasymon/cs680Symon/pa1/build
 
 Tutorial_SUCCESSFUL: CMakeFiles/Tutorial_SUCCESSFUL
 Tutorial_SUCCESSFUL: CMakeFiles/Tutorial_SUCCESSFUL.dir/build.make
@@ -75,6 +75,6 @@ CMakeFiles/Tutorial_SUCCESSFUL.dir/clean:
 .PHONY : CMakeFiles/Tutorial_SUCCESSFUL.dir/clean
 
 CMakeFiles/Tutorial_SUCCESSFUL.dir/depend:
-	cd /Users/christinasymon/cs680Symon/PA1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/christinasymon/cs680Symon/PA1 /Users/christinasymon/cs680Symon/PA1 /Users/christinasymon/cs680Symon/PA1/build /Users/christinasymon/cs680Symon/PA1/build /Users/christinasymon/cs680Symon/PA1/build/CMakeFiles/Tutorial_SUCCESSFUL.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/christinasymon/cs680Symon/pa1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/christinasymon/cs680Symon/pa1 /Users/christinasymon/cs680Symon/pa1 /Users/christinasymon/cs680Symon/pa1/build /Users/christinasymon/cs680Symon/pa1/build /Users/christinasymon/cs680Symon/pa1/build/CMakeFiles/Tutorial_SUCCESSFUL.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Tutorial_SUCCESSFUL.dir/depend
 
