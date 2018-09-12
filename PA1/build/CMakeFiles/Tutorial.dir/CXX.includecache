@@ -72,20 +72,6 @@ string
 engine.h
 /Users/christinasymon/cs680Symon/pa1/src/engine.h
 
-/Users/christinasymon/cs680Symon/pa1/src/graphics.cpp
-graphics.h
-/Users/christinasymon/cs680Symon/pa1/src/graphics.h
-
-/Users/christinasymon/cs680Symon/pa1/src/main.cpp
-iostream
--
-engine.h
-/Users/christinasymon/cs680Symon/pa1/src/engine.h
-
-/Users/christinasymon/cs680Symon/pa1/src/object.cpp
-object.h
-/Users/christinasymon/cs680Symon/pa1/src/object.h
-
 /usr/local/include/GL/glew.h
 stddef.h
 -

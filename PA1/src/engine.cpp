@@ -101,6 +101,24 @@ void Engine::Keyboard()
 		}
 	}
   }
+else if (m_event.type == SDL_MOUSEBUTTONDOWN)
+  {
+    // handle key down events here
+        if(m_event.button.button == SDL_BUTTON_LEFT)
+        {
+                if(reverse == false)
+                {
+                        m_graphics-> Reverse(1);
+                        reverse = true;
+                }
+                else if (reverse == true)
+                {
+                        m_graphics-> Reverse(0);
+                        reverse= false;
+                }
+        }
+
+}
 }
 
 unsigned int Engine::getDT()
