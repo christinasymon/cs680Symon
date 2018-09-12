@@ -68,10 +68,6 @@ SDL2/SDL.h
 string
 -
 
-/Users/christinasymon/cs680Symon/pa1/src/camera.cpp
-camera.h
-/Users/christinasymon/cs680Symon/pa1/src/camera.h
-
 /Users/christinasymon/cs680Symon/pa1/src/engine.cpp
 engine.h
 /Users/christinasymon/cs680Symon/pa1/src/engine.h
@@ -89,16 +85,6 @@ engine.h
 /Users/christinasymon/cs680Symon/pa1/src/object.cpp
 object.h
 /Users/christinasymon/cs680Symon/pa1/src/object.h
-
-/Users/christinasymon/cs680Symon/pa1/src/shader.cpp
-shader.h
-/Users/christinasymon/cs680Symon/pa1/src/shader.h
-fstream
--
-
-/Users/christinasymon/cs680Symon/pa1/src/window.cpp
-window.h
--
 
 /usr/local/include/GL/glew.h
 stddef.h

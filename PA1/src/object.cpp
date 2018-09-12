@@ -76,13 +76,24 @@ Object::~Object()
   Vertices.clear();
   Indices.clear();
 }
+void Object::Reverse(bool reverse2)
+{
+reverse=reverse2;
+}
 
 void Object::Update(unsigned int dt)
 {
-  angle += dt * M_PI/1000;
-  model = glm::rotate(glm::mat4(1.0f), (angle), glm::vec3(0.0, 1.0, 0.0))*glm::translate(glm::mat4(1.0f),glm::vec3(5.0,3.0,3.0))*glm::rotate(glm::mat4(1.0f),(angle),glm::vec3(1.0,1.0,10.0));
+ if(reverse == false)
+{
+ angle += dt * M_PI/1000;
+  model = glm::rotate(glm::mat4(1.0f), (angle), glm::vec3(0.0, 1.0, 0.0))*glm::translate(glm::mat4(1.0f),glm::vec3(5.0,3.0,3.0))*glm::rotate(glm::mat4(1.0f),(angle),glm::vec3(0.0,1.0,0.0));
 }
-
+else if(reverse ==true)
+{
+angle -= dt * M_PI/1000;
+  model = glm::rotate(glm::mat4(1.0f), (angle), glm::vec3(0.0, 1.0, 0.0))*glm::translate(glm::mat4(1.0f),glm::vec3(5.0,3.0,3.0))*glm::rotate(glm::mat4(1.0f),(angle),glm::vec3(0.0,1.0,0.0));
+}
+}
 glm::mat4 Object::GetModel()
 {
   return model;

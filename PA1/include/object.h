@@ -11,7 +11,7 @@ class Object
     ~Object();
     void Update(unsigned int dt);
     void Render();
-
+    void Reverse(bool);
     glm::mat4 GetModel();
 
   private:
@@ -22,6 +22,7 @@ class Object
     GLuint IB;
 
     float angle;
+    bool reverse;
 };
 
 #endif /* OBJECT_H */

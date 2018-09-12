@@ -106,6 +106,10 @@ bool Graphics::Initialize(int width, int height)
 
   return true;
 }
+void Graphics:: Reverse(bool reverse1)
+{
+m_cube->Reverse(reverse1);
+}
 
 void Graphics::Update(unsigned int dt)
 {

@@ -31,7 +31,7 @@ class Engine
     Graphics *m_graphics;
     unsigned int m_DT;
     long long m_currentTimeMillis;
-    bool m_running;
+    bool m_running,reverse;
 };
 
 #endif // ENGINE_H

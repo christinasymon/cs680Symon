@@ -53,7 +53,7 @@ bool Engine::Initialize()
 void Engine::Run()
 {
   m_running = true;
-
+  reverse= false;
   while(m_running)
   {
     // Update the DT
@@ -87,6 +87,19 @@ void Engine::Keyboard()
     {
       m_running = false;
     }
+	else if(m_event.key.keysym.sym == SDLK_UP)
+	{
+		if(reverse == false)
+		{
+			m_graphics-> Reverse(1);
+			reverse = true;
+		}
+		else if (reverse == true)
+		{
+			m_graphics-> Reverse(0);
+			reverse= false;
+		}
+	}
   }
 }
 
