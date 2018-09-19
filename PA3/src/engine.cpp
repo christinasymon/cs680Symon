@@ -90,7 +90,7 @@ void Engine::Keyboard()
     else if(m_event.key.keysym.sym == SDLK_UP)
 	{
 		m_graphics-> Reverse(1);
-		reverse = true:
+		reverse = true;
 	}
 	else if(m_event.key.keysym.sym == SDLK_DOWN)
 	{
