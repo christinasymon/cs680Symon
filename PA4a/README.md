@@ -15,8 +15,10 @@ The second argument passed should be given as:
 That is, the command line arguments can be:
 
 ./Tutorial random box - for the box to appear with randomly generated colors.
+
 ./Tutorial random dragon - for the dragon to appear with randomly generated colors.
 ./Tutorial material box - for the box to have the material colors from blender.
+
 ./Tutorial material dragon - for the dragon to have material colors from blender.
       
  
