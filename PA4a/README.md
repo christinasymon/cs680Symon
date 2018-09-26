@@ -5,11 +5,15 @@ The output is seen using command line arguments.
 The count of arguments passed should be 2.
 
 The first argument passed should be given as:
+
       random - for random color applied to the object.
+      
       material - for the color to be read from the material file.
       
 The second argument passed should be given as:
+
       box - for the box made from blender.
+      
       dragon - for the dragon object.
       
 That is, the command line arguments can be:
