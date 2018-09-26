@@ -1,0 +1,4 @@
+/Users/christinasymon/pa4/build/CMakeFiles/rebuild_cache.dir
+/Users/christinasymon/pa4/build/CMakeFiles/edit_cache.dir
+/Users/christinasymon/pa4/build/CMakeFiles/Tutorial_SUCCESSFUL.dir
+/Users/christinasymon/pa4/build/CMakeFiles/Tutorial.dir
