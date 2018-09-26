@@ -54,3 +54,7 @@ OpenGL 3.3 will run on the [ubuntu.cse.unr.edu](https://ubuntu.cse.unr.edu/) web
 ```bash
 /usr/NX/scripts/vgl/vglrun ./Tutorial
 ```
+
+## Keyboard and Mouse Control
+Keyboard : ARROW UP to change the direction of spinning the cube in both direction.
+Mouse : LEFT BUTTON to change the direction of spinning the cube in both direction.

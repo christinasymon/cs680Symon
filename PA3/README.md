@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 # PA1: Spinning Cube
+=======
+# PA3: Moons
+
+## Keyboard and Mouse Interactions
+Keyboard Arrow up - Clockwise direction of the planet.
+Keyboard Arrow down - Anti-Clockwise direction of the planet.
+Mouse Left Button - Changing direction of the planet either way.
+>>>>>>> cb9dff83923ed852dcbd9d75608847bd2366cb65
 
 # Dependencies, Building, and Running
 
