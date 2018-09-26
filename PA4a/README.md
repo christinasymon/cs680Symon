@@ -1,4 +1,27 @@
-# PA1: Spinning Cube
+# PA4: MODEL LOADING
+
+## IMPORTANT NOTE:
+The output is seen using command line arguments.
+The count of arguments passed should be 2.
+
+The first argument passed should be given as:
+      random - for random color applied to the object.
+      material - for the color to be read from the material file.
+      
+The second argument passed should be given as:
+      box - for the box made from blender.
+      dragon - for the dragon object.
+      
+That is, the command line arguments can be:
+
+./Tutorial random box - for the box to appear with randomly generated colors.
+./Tutorial random dragon - for the dragon to appear with randomly generated colors.
+./Tutorial material box - for the box to have the material colors from blender.
+./Tutorial material dragon - for the dragon to have material colors from blender.
+      
+ 
+The material file should be in the build folder.
+
 
 # Dependencies, Building, and Running
 
@@ -18,25 +41,7 @@ Installation of brew is suggested to easily install the libs. Ensure that the la
 brew install glew glm sdl2
 ```
 
-## Building and Running
-To build this project there are two options. One is to use CMake which makes including new libraries easier, and handles new files added automatically to the src and include directory. CMake is a small new learning curve but makes things easier in the future.
-The second option is to use the provided Makefile which is used as usual.
 
-Running the make in a separate directory will allow easy cleanup of the build data, and an easy way to prevent unnecessary data to be added to the git repository.  
-
-### CMake Instructions
-The building of the project is done using CMake, installation with apt-get or brew may be necessary. Later use with CMake and Shader files will be require the copy of a directory where those files are stored (ex. shaders). To do this in the ```add_custom_target``` function place 
-```cmake
-COMMAND ${CMAKE_COMMAND} -E copy_directory ${PROJECT_SOURCE_DIR}/shaders/ ${CMAKE_CURRENT_BINARY_DIR}/shaders
-```
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-./Tutorial
-```
 
 ### Makefile Instructions 
 The makefile works as expected and must be updated with new files added in.
@@ -49,8 +54,4 @@ make
 ./Tutorial
 ```
 
-## Ubuntu.cse.unr.edu
-OpenGL 3.3 will run on the [ubuntu.cse.unr.edu](https://ubuntu.cse.unr.edu/) website. To do so follow the build instructions, but when running the Tutorial executable use this line to execute.
-```bash
-/usr/NX/scripts/vgl/vglrun ./Tutorial
-```
+
