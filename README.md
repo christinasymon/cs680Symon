@@ -2,12 +2,16 @@
 
 PA4 is found in PA4a folder.
 
-#GROUP MEMBERS
+# GROUP MEMBERS
+
 Andrew Flangas
+
 Christina Symon
+
 Lucas Calabrese
 
-##GROUP PROJECTS
+## GROUP PROJECTS
 
 PA5 found in Lucas's profile
+
 https://github.com/lucasaec/cs680Calabrese
