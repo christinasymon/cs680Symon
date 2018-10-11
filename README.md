@@ -12,6 +12,6 @@ Lucas Calabrese
 
 ## GROUP PROJECTS
 
-PA5 found in Lucas's profile
+Projects found in Lucas's profile
 
 https://github.com/lucasaec/cs680Calabrese
